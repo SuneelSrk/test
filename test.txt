@@ -7,5 +7,7 @@ python
 swift
 
 
+scala
+R
 
 thank you
